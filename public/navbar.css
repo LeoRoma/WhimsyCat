@@ -1,0 +1,19 @@
+.navbar-container{
+    border: black solid;
+    width: 100%;
+    height: 50px;
+}
+
+.lines-container{
+    border: red solid;
+    position: absolute;
+    right: 100px;
+    top: 20px;
+}
+
+.line{
+    width: 30px;
+    height: 3px;
+    border: black solid;
+    line-height: 1px;
+}

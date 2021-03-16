@@ -1,0 +1,8 @@
+.carousel-container{
+    top: 100vh;
+    height: 100vh;
+    border: red solid;
+    z-index: -1;
+    position: relative;
+    margin: auto;
+}

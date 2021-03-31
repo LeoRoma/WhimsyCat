@@ -16,3 +16,7 @@
     width: 65%;
     height: 500px;
 }
+
+.carousel-track{
+    border: blue solid;
+}

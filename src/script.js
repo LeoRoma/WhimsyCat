@@ -15,3 +15,5 @@ landingPageAlternate[0].addEventListener('mouseout', () => {
 fetch("https://api.thecatapi.com/v1/breeds?f16ad962-557b-4deb-b7ab-626cc52a45f9")
     .then(response => response.json())
     .then(data => console.log(data))
+    .catch(err => console.log("Error: ", err));
+    
